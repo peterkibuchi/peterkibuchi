@@ -12,7 +12,7 @@ among other things. I only have a professional background in Web Development at 
 I am passionate about learning and self-improvement. I would like to make the most of my precious time on this planet; live a life I can be proud of, create meaningful stuff and make the world a better place.
 
 
-### 🌱 I’m currently learning
+### 🌱 I’m currently learning:
 
 - I am currenty undertaking the [Full-Stack Software Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) on Codecademy, among other things.
 
