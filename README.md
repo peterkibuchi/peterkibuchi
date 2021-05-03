@@ -19,7 +19,7 @@ I am passionate about learning and self-improvement. I would like to make the mo
 
 ### 📫 How to reach me:
 
-- My Home on the Internet: https://peterkibuchi.com
+- My Home on the Internet: https://www.peterkibuchi.com
 - Twitter: https://twitter.com/peter_kibuchi
 
 
