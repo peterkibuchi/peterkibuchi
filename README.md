@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My name is Peter Kibuchi. I am a Software Engineer based in Juja - Kenya's very own Silicon Valley :D.
+My name is Peter Kibuchi. I am a Software Engineer based in Juja — Kenya's very own Silicon Valley :D.
 
 I am interested in Web Development, Artificial Intelligence, Robotics, and the Blockchain, among other things. 
 I only have a professional background in Web Development at the moment, but I am looking to venture into the other disciplines in the future. One step at a time.
