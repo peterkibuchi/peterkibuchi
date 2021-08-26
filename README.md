@@ -6,11 +6,7 @@
 
 My name is Peter Kibuchi. I am a Software Engineer based in Juja — Kenya's very own Silicon Valley :D.
 
-I am interested in Web Development, Artificial Intelligence, Robotics, and the Blockchain, among other things. 
-I only have a professional background in Web Development at the moment, but I am looking to venture into the other disciplines in the future. One step at a time.
-
-I am passionate about learning and self-improvement. I would like to make the most of my precious time on this planet; live a life I can be proud of, create meaningful stuff and make the world a better place.
-
+I am passionate about learning and self-improvement.
 
 ### 🌱 I’m currently learning:
 
